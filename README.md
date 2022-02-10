@@ -1,6 +1,6 @@
 # WinKernel
 
-Lightweight library to interfere with windows kernel
+Lightweight library to interfere with windows kernel written in .net 6
 
 ## Features : 
   - Binaries Reading in big endian  (see `WinMemory\WinMemoryReader.cs`)
